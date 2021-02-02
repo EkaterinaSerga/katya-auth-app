@@ -6,7 +6,7 @@ const {
 } = require('./db');
 const path = require('path');
 
-// THIS IS SOLUTION BRANCH TO BE DELETED
+// NO COMMENTSsssss
 
 app.get('/', (req, res) => res.sendFile(path.join(__dirname, 'index.html')));
 
